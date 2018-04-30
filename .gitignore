@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+*.mdb  
+*.ldb  
+*.sln  
+*.config  
+*.vcxproj.filters
+*.vcxproj
+*.VC.db
+.vscode/
+.vs/
+Debug/  
+Release/  
+obj/  
